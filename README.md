@@ -4,7 +4,7 @@ This course explores the concepts and algorithms at the foundation of modern art
 
 # Notes
 
-I've taken some notes on key concepts and algorights during the lectures.
+I've taken some notes on key concepts and algorithms during the lectures.
 
 ## Lecture 0: Search
 
@@ -30,4 +30,5 @@ I've taken some notes on key concepts and algorights during the lectures.
 ##### Projects:
 
 -   Degrees
+    -   go to degrees.py root folder and run the following command: check50 ai50/projects/2024/x/degrees
 -   Tic-Tac-Toe
